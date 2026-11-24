@@ -17,7 +17,7 @@ In your own copy, open Settings and use "Add a saved file" (you can pick several
 ## Put it online with GitHub Pages
 
 1. Create a new **public** repository named `sommelier-atlas`.
-2. Upload every file and folder from this folder (Add file, Upload files; drag them all in, including the `lib` folder).
+2. Upload every file from this folder (Add file, Upload files; select all the files and drag them in). There are no subfolders. `index.html` must sit at the top level of the repository, not inside another folder.
 3. In the repository, open Settings, then Pages. Under "Build and deployment", choose "Deploy from a branch", branch `main`, folder `/ (root)`, and save.
 4. After a minute or two the site is live at the address above.
 
@@ -29,4 +29,4 @@ To publish your edits to every player: in edit mode choose "Export edits", renam
 
 ## Credits
 
-Unofficial study aid. The scope follows the Court of Master Sommeliers, Americas curriculum guide (8.2023). Not affiliated with or endorsed by CMS-A. Map data: Natural Earth (public domain). Libraries: D3 and TopoJSON (licenses in `lib/`).
+Unofficial study aid. The scope follows the Court of Master Sommeliers, Americas curriculum guide (8.2023). Not affiliated with or endorsed by CMS-A. Map data: Natural Earth (public domain). Libraries: D3 and TopoJSON (license files included).
